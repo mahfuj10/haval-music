@@ -1,0 +1,25 @@
+.sideNav{
+    background-color: rgb(199, 195, 195);
+    width: 250px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+    overflow-y: hidden;
+    height: 60.50rem;
+    margin-left: 10%;
+}                  
+.nav-items{
+    display: grid;
+    justify-content: center;
+    color: #32323D
+    
+}
+.nav-items  .fas {
+    margin-right: 20px;
+    color: #32323D;
+}
+.nav-title{
+    margin-left: 70px;
+    color: rgb(95, 93, 93);
+    letter-spacing: 3px;
+
+}
